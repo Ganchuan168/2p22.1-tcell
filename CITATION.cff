@@ -3,7 +3,7 @@ message: "If you use this code, please cite the manuscript and this archive."
 type: software
 title: "2p22.1-tcell: analysis code for a two-sample Mendelian randomization study of 731 immunophenotypes and non-puerperal mastitis"
 abstract: "Instrument selection, harmonization, forward and reverse two-sample Mendelian randomization, sensitivity analyses, variant-level screening and figure/table generation for a study of 731 circulating immune-cell phenotypes and non-puerperal mastitis in FinnGen release 11."
-version: 1.0.3
+version: 1.0.4
 date-released: 2026-11-05
 license: MIT
 doi: "10.5281/zenodo.23954027"
