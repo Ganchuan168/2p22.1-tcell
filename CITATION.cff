@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the manuscript and this archive."
+type: software
+title: "2p22.1-tcell: analysis code for a two-sample Mendelian randomization study of 731 immunophenotypes and non-puerperal mastitis"
+abstract: "Instrument selection, harmonization, forward and reverse two-sample Mendelian randomization, sensitivity analyses, variant-level screening and figure/table generation for a study of 731 circulating immune-cell phenotypes and non-puerperal mastitis in FinnGen release 11."
+version: 1.0.3
+date-released: 2026-11-05
+license: MIT
+doi: "10.5281/zenodo.23954027"
+repository-code: "https://github.com/Ganchuan168/2p22.1-tcell"
+url: "https://doi.org/10.5281/zenodo.23954027"
+keywords:
+  - Mendelian randomization
+  - non-puerperal mastitis
+  - immunophenotypes
+  - 2p22.1
+  - regulatory T cells
+  - FinnGen
+authors:
+  - family-names: Gan
+    given-names: Chuan
+    orcid: "https://orcid.org/0009-0004-8207-8430"
+    affiliation: "School of Basic Medicine, Guangxi University of Chinese Medicine, Nanning, China"
+  - family-names: Gan
+    given-names: Lu
+    orcid: "https://orcid.org/0009-0007-6753-7389"
+    affiliation: "Zhangmu Town Central Health Center of Fumian, Yulin, China"
+  - family-names: Xia
+    given-names: Meng
+    orcid: "https://orcid.org/0000-0001-8075-9698"
+    affiliation: "School of Basic Medicine, Guangxi University of Chinese Medicine, Nanning, China"
+    email: "xiam@gxtcmu.edu.cn"

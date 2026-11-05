@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# Input data: downloaded or generated, never version-controlled
+data/ivs/*.csv
+data/reverse/*.csv
+data/outcome_*.csv
+data/positions_grch38.csv
+data/reverse_instruments.csv
+data/ensembl_cache/
+data/raw/
+data/ivs_filtered/
+
+# LD matrix and PLINK scratch files
+data/ld/*.bed
+data/ld/*.bim
+data/ld/*.fam
+data/ld/*.ld
+data/ld/*.nosex
+data/ld/*.log
+data/ld/*.snplist
+
+# Analysis output
+results/*
+!results/.gitkeep
+figures/*
+!figures/.gitkeep
+tables/*
+!tables/.gitkeep
+
+# Session files and OS clutter
+*.log
+.DS_Store
+Thumbs.db
